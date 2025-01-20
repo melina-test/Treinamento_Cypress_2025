@@ -16,13 +16,11 @@ O objetivo do projeto foi desenvolver dois cenários de teste (um positivo e um 
 
 ### Cenário 2: Teste Negativo
 
-- **Objetivo**: Verificar se o site impede o envio do pedido de seguro quando o campo de confirmação de senha não coincide com o campo de senha.
-- **Etapas**:
+-- **Objetivo**: Verificar se o site impede o envio do pedido de seguro quando o campo de confirmação de senha não coincide com o campo de senha.
+-- **Etapas**:
   1. Preenchimento incorreto do campo de confirmação de senha.
   2. Validação de que o sistema exibe uma mensagem de erro.
   3. Verificação de que o pedido não foi enviado enquanto o erro persistir.
- 
-![cenário negativo](Imagens/Print_Cypress_Cenário Negativo.png)
 
 ## Estrutura do Projeto
 
