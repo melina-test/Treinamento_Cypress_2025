@@ -14,7 +14,7 @@ O objetivo do projeto foi desenvolver dois cenários de teste (um positivo e um 
   2. Submissão do pedido.
   3. Validação de que o envio foi realizado com sucesso.
  
-![Cenário Positivo](Print_Cypress_Cenário Negativo.png)
+![Cenário Positivo](Imagens/Print_Cypress_Cenário Negativo.png)
 
 ### Cenário 2: Teste Negativo
 
@@ -24,7 +24,7 @@ O objetivo do projeto foi desenvolver dois cenários de teste (um positivo e um 
   2. Validação de que o sistema exibe uma mensagem de erro.
   3. Verificação de que o pedido não foi enviado enquanto o erro persistir.
  
-![Cenário Negativo](Print_Cypress_Cenário Positivo.png)
+![Cenário Negativo](Imagens/Print_Cypress_Cenário Positivo.png)
 
 ## Estrutura do Projeto
 
