@@ -49,9 +49,3 @@ Como iniciante na área de automação de testes, este projeto foi um marco impo
 - Identificação e validação de cenários de teste.
 
 Ainda há muito a explorar, mas este foi um projeto motivador para dar os primeiros passos no universo da automação de testes!
-
-git add README.md
-git commit -m "Adicionando imagens ao README"
-git push origin master  # Ou 'git push origin main'
-
-
