@@ -8,19 +8,19 @@ O objetivo do projeto foi desenvolver dois cenários de teste (um positivo e um 
 
 ### Cenário 1: Teste Positivo
 
-- **Objetivo**: Validar que o usuário consegue enviar um pedido de seguro de carro ao preencher corretamente todas as informações obrigatórias.
-- **Etapas**:
-  1. Preenchimento de todos os campos obrigatórios nas abas do formulário.
-  2. Submissão do pedido.
-  3. Validação de que o envio foi realizado com sucesso.
+ **Objetivo**: Validar que o usuário consegue enviar um pedido de seguro de carro ao preencher corretamente todas as informações obrigatórias.
+ **Etapas**:
+  - Preenchimento de todos os campos obrigatórios nas abas do formulário.
+  - Submissão do pedido.
+  - Validação de que o envio foi realizado com sucesso.
 
 ### Cenário 2: Teste Negativo
 
--- **Objetivo**: Verificar se o site impede o envio do pedido de seguro quando o campo de confirmação de senha não coincide com o campo de senha.
--- **Etapas**:
-  1. Preenchimento incorreto do campo de confirmação de senha.
-  2. Validação de que o sistema exibe uma mensagem de erro.
-  3. Verificação de que o pedido não foi enviado enquanto o erro persistir.
+ **Objetivo**: Verificar se o site impede o envio do pedido de seguro quando o campo de confirmação de senha não coincide com o campo de senha.
+ **Etapas**:
+  - Preenchimento incorreto do campo de confirmação de senha.
+  - Validação de que o sistema exibe uma mensagem de erro.
+  - Verificação de que o pedido não foi enviado enquanto o erro persistir.
 
 ## Estrutura do Projeto
 
