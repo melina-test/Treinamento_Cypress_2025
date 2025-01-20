@@ -50,9 +50,8 @@ Como iniciante na área de automação de testes, este projeto foi um marco impo
 
 Ainda há muito a explorar, mas este foi um projeto motivador para dar os primeiros passos no universo da automação de testes!
 
-git add Imagens/Print_Cypress_Cenario_Positive.png
-git add Imagens/Print_Cypress_Cenario_Negative.png
-git commit -m "Adicionando imagens ao repositório"
-git push origin master  # Ou 'git push origin main'
+git add README.md
+git commit -m "Atualizando README com as imagens"
+git push origin master  # Ou 'git push origin main', dependendo da sua branch
 
 
