@@ -1,4 +1,4 @@
-# Projeto de Automação de Testes com Cypress - Academia Accenture 2025
+# Projeto de Automação de Testes com Cypress - Treinamento 2025
 
 Este projeto foi desenvolvido como parte de um treinamento em automação de testes mais voltado para iniciantes na área. Ele utiliza o site de testes Tricentis como base para criar cenários de validação de pedidos de seguro de veículos.
 
