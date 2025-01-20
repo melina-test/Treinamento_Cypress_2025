@@ -52,6 +52,6 @@ Ainda há muito a explorar, mas este foi um projeto motivador para dar os primei
 
 git add README.md
 git commit -m "Atualizando README com as imagens"
-git push origin master  # Ou 'git push origin main', dependendo da sua branch
+git push origin master  # ou 'git push origin main'
 
 
