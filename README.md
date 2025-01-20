@@ -14,7 +14,7 @@ O objetivo do projeto foi desenvolver dois cenários de teste (um positivo e um 
   2. Submissão do pedido.
   3. Validação de que o envio foi realizado com sucesso.
  
-![Cenário Positivo](C:\Academia_Accenture2025\imagens\Print_Cypress_Cenário Negativo.png)
+![Cenário Positivo](C:/Academia_Accenture2025/imagens/Print_Cypress_Cenário Negativo.png)
 
 ### Cenário 2: Teste Negativo
 
